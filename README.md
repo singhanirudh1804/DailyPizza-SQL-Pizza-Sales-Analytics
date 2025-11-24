@@ -60,9 +60,9 @@ DailyPizza/
 │── README.md               
 │── problem_queries.md      
 │── queries/                
-│    ├── basic_queries.sql
-│    ├── intermediate_queries.sql
-│    └── advanced_queries.sql
+│    ├── basic_queries.sql.pdf
+│    ├── intermediate_queries.sql.pdf
+│    └── advanced_queries.sql.pdf
 
 ```
 
