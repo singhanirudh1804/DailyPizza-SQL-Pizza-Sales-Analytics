@@ -51,20 +51,21 @@ The project uses **4 CSV datasets**:
 ```
 DailyPizza/
 │── data/
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   ├── pizza_types.csv
+│   └── pizza_sales/        ← your datasets folder
+│       ├── orders.csv
+│       ├── order_details.csv
+│       ├── pizzas.csv
+│       └── pizza_types.csv
 │
-│── queries/
-│   ├── basic_queries.sql
-│   ├── intermediate_queries.sql
-│   ├── advanced_queries.sql
-│
-│── README.md
+│── README.md               
+│── problem_queries.md      
+│── queries/                
+│    ├── basic_queries.sql
+│    ├── intermediate_queries.sql
+│    └── advanced_queries.sql
+
 ```
 
----
 
 ## 🛠 How to Run the Project
 
