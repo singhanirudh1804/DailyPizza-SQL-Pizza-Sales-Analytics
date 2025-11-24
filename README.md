@@ -35,17 +35,13 @@ The project uses **4 CSV datasets**:
 
 ---
 
-## 🔍 Problem Statements & Solutions
+## 🔍 Queries Problem 
 
-### ✅ **Basic Queries**
----
+#### ✅ **Basic Queries**
 
-### 🔄 **Intermediate Queries**
+#### 🔄 **Intermediate Queries**
 
-
----
-
-### 🚀 **Advanced Queries**
+#### 🚀 **Advanced Queries**
 
 
 ---
