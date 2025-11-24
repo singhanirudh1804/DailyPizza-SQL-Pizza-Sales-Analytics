@@ -38,30 +38,15 @@ The project uses **4 CSV datasets**:
 ## 🔍 Problem Statements & Solutions
 
 ### ✅ **Basic Queries**
-
-* Total number of orders placed
-* Total revenue generated
-* Highest-priced pizza
-* Most common pizza size ordered
-* Top 5 most ordered pizza types
-
 ---
 
 ### 🔄 **Intermediate Queries**
 
-* Category-wise total quantity ordered
-* Distribution of orders by hour
-* Category-wise distribution of pizzas
-* Average number of pizzas ordered per day
-* Top 3 pizzas by revenue
 
 ---
 
 ### 🚀 **Advanced Queries**
 
-* Percentage contribution of each pizza type to total revenue
-* Cumulative revenue over time
-* Top 3 pizzas by revenue within each category
 
 ---
 
