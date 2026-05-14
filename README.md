@@ -105,5 +105,5 @@ Feel free to fork this repository and submit improvements.
 **Anirudh Singh**
 Data Analyst | SQL | Python | ML
 
-✅ A **project thumbnail image**
+✅ A **project thumbnail image** 
 Just tell me!
